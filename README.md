@@ -62,38 +62,6 @@
 >
 > I like building things, experimenting with ideas, and turning concepts into working software.
 
----
-
-## 🧠 What I'm Interested In
-
-```text
-Software Engineering
-├── Application Development
-├── Backend Systems
-├── Algorithms
-├── Automation
-└── System Architecture
-
-Electrical & Electronics
-├── Electronics
-├── Embedded Systems
-├── Computer Architecture
-├── Hardware / Software Interaction
-└── Engineering
-
-Web
-├── HTML
-├── CSS
-├── JavaScript
-├── React
-└── Full-Stack Development
-
-Research
-├── Simulation
-├── Space Systems
-├── Physics
-└── Optimization
-```
 <div align="center">
 
   <img src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" width="200">
