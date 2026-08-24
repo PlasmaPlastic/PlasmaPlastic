@@ -69,6 +69,15 @@
 >
 > I like building things, experimenting with ideas, and turning concepts into working software.
 
+Originally from Korea
+🇨🇦 Currently in Ontario, Canada
+
+Just a normal student who is obsessed with anime and really likes computers.
+
+I don't always know what I'm going to build next.
+
+That's part of the fun.
+
 <div align="center">
 
   <img src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" width="200">
@@ -78,3 +87,9 @@
   <img src="https://i.pinimg.com/1200x/5e/cf/8d/5ecf8d03eb9fb7070c9454b78326f8fe.jpg" width="715">
 
 </div>
+
+"시간은 아무도 기다려주지 않는다"
+"Time waits for no one"
+"時間は誰も待ってくれない"
+- The Girl Who Leapt Through Time 
+
