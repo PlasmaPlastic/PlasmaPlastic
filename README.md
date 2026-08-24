@@ -51,6 +51,13 @@
 
 </td>
 
+<td align="center" width="180">
+
+👾  
+<b>Anime</b>
+
+</td>
+
 </tr>
 </table>
 
