@@ -4,7 +4,7 @@
 
 ### Software • Electrical & Electronics • Robotics • Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Electrical+%26+Electronics+Enthusiast;Web+Developer;Simulation+%26+Research;Anime+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Electrical+%26+Electronics+Enthusiast;Robotics;Simulation+%26+Cybersecurity;Anime+Enthusiast" />
 
 <br>
 
