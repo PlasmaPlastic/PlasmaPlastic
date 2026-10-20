@@ -40,14 +40,14 @@
 <td align="center" width="180">
 
 🌐  
-<b>Web</b>
+<b>Robotics</b>
 
 </td>
 
 <td align="center" width="180">
 
 🔬  
-<b>Research</b>
+<b>Cybersecurity</b>
 
 </td>
 
